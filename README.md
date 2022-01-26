@@ -19,6 +19,14 @@ OpenCL Programming Guide
 
 https://rocmdocs.amd.com/en/latest/Programming_Guides/Opencl-programming-guide.html#opencl-programming-guide
 
+Vulkan Tutorials
+
+https://vulkan-tutorial.com/
+
+Mesa (Mesa3D and The Mesa 3D Graphics Library)
+
+https://www.mesa3d.org/
+
 ---------------------------
 
 Render Shader Tool: RenderMonkey
