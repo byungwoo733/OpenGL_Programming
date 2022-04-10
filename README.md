@@ -38,3 +38,28 @@ GPU Debugging Tools: RenderDoc, AMD CodeXL
 RenderDoc
 
 https://renderdoc.org/
+
+
+AMD CodeXL (Legacy) / Perftstdio 2 / RenderMonkey
+
+AMD CodeXL (Legacy)
+
+https://gpuopen.com/archived/legacy-codexl/
+
+RenderDoc
+
+https://renderdoc.org/
+
+=============================================
+
+AMD ROCm Documentation
+
+https://rocmdocs.amd.com/en/latest/index.html#
+
+AMD CodeXL Documentation
+
+https://documentation.help/CodeXL/introduction.htm
+
+RenderDoc Documentation
+
+https://renderdoc.org/docs/index.html
