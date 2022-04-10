@@ -40,15 +40,11 @@ RenderDoc
 https://renderdoc.org/
 
 
-AMD CodeXL (Legacy) / Perftstdio 2 / RenderMonkey
+AMD CodeXL (Legacy) / Perftstdio 2 
 
 AMD CodeXL (Legacy)
 
 https://gpuopen.com/archived/legacy-codexl/
-
-RenderDoc
-
-https://renderdoc.org/
 
 =============================================
 
